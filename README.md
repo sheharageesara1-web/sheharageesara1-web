@@ -1,49 +1,157 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi 👋, I'm Shehara Chamod</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sheharageesara1-web&label=Profile%20views&color=0e75b6&style=flat" alt="sheharageesara1-web" /> </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<h3 align="center">🚀 Web Developer | AI & Software Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Shehara+Chamod;A+Information+Systerm+Undergraduate+in+Sri+Lanka;Web+Developer;Software+Developer;Project+Management+Learner;Always+Learning+New+Things" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sheharageesara1-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🌱 I’m currently learning **AI + Java**
-- 🧑‍🎓 I’m an Undergraduate at **University of Colombo**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me **sheharageesara1@gmail.com**
+---
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## 🧑‍💻 About Me
+
+- 🎓 Undergraduate at **University of Colombo School of Computing**
+- 🏫 Studied at **Am/D.S Senanayake National Collage**
+- 💡 Passionate about **AI,Web Development & Software Developer**
+- 🌱 Currently Learning **React & Advanced Note.js**
+- ⚡ Fun fact: *Always curious, always building!*
+
+---
+
+## 🎯 Current Goals
+
+- 🔥 Mastering React & Modern Frontend
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Building Real-world Projects
 
 </td>
-<td width="50%" align="center">
-<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<td valign="top" width="45%" align="center">
+
+<img alt="3D Coding Animation" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,php" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Sheharageesara1-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheharageesara1-web&theme=tokyonight&hide_border=true&background=0d1117" width="100%"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
-<a href="https://fb.com/shehara.geesara.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehara.geesara.1" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheharageesara1-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+## 🧠 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheharageesara1-web&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+> Coming Soon — A stunning personal portfolio built with React
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Mini Projects
+> Exploring machine learning and AI-powered applications
+
+![Status](https://img.shields.io/badge/Status-Exploring-blue?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cyber Security Labs
+> Practice labs for ethical hacking and security fundamentals
+
+![Status](https://img.shields.io/badge/Status-Learning-green?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Linux-FCC624?style=flat-square&logo=linux)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Web Dev Projects
+> Full stack web applications using PHP, JS & more
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-PHP-777BB4?style=flat-square&logo=php)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+<a href="mailto:Sheharageesara1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+</p>
+
+---
+
+## ✨ Quote I Believe In
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Always+Building,+Always+Learning+🚀&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</p>
+
+<p align="center">
+⭐ From <b>Sheharageesara1-web</b> — Always Building, Always Learning 🚀
+</p>
